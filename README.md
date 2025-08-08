@@ -2,7 +2,7 @@
 <h1 align="center">Hii~ 😉, I'm Typical</h1>
 <h3 align="center">from Vietnam :vietnam:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TypicalShavonne&label=Profile%20views&color=0e75b6&style=flat" alt="TypicalShavonne" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=typicalsmc&label=Profile%20views&color=0e75b6&style=flat" alt="typicalsmc" /> </p>
 
 ## 🧪 **Some of my achievements:**
 * Owner of SimpMC Network for 3 years, peak at 400 players concurrently
@@ -51,6 +51,6 @@
   </div>
 
 ## GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TypicalShavonne&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=typicalsmc&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TypicalShavonne&theme=tokyonight&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typicalsmc&theme=tokyonight&layout=compact&hide_border=true)
