@@ -51,6 +51,6 @@
   </div>
 
 ## GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=typicalsmc&theme=tokyonight&hide_border=true)
+![GitHub stats](https://typical-readme-stats.vercel.app/api?username=typicalsmc&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=typicalsmc&theme=tokyonight&layout=compact&hide_border=true)
+![Top Languages](https://typical-readme-stats.vercel.app/api/top-langs/?username=typicalsmc&theme=tokyonight&layout=compact&hide_border=true)
