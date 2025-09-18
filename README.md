@@ -25,7 +25,7 @@
   </p>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" height="35" /> 
-    <strong>MySQL</strong> <em>(50/100)</em> — Use that for database most of the time, though, i prefer MongoDB :joy: 📊
+    <strong>MySQL</strong> <em>(50/100)</em> — Better than NoSQL
   </p>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35" /> 
