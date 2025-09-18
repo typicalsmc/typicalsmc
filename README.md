@@ -9,27 +9,31 @@
 * Pioneer in applying new tech in minecraft server industry
 * Worked at MineAhihi as Admin for 3 months
 * Current: Developing a new minecraft server!!!
-## 📚 Certificates
-* Ielts 7.0 Overall
+## 📚 Soft-skills
+* Fluent in English
+* Teamwork, leadership, making plan, long-term awareness
 ## 💻 Languages & Skills
 
 <div align="left">
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35" /> 
-    <strong>Java</strong> <em>(Fire)</em> — Learned it for minecraft ☕
+    <strong>Java</strong> <em>(85/100)</em> — Learned it for minecraft ☕
   </p>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="35" height="35" /> 
-    <strong>Bash</strong> <em>(Cooked)</em> — Automate stuff on Linux Systems ✨
+    <strong>Linux</strong> <em>(80/100)</em> — Server administrator, deploy apps using Docker, K8s ✨
   </p>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" height="35" /> 
-    <strong>MySQL</strong> <em>(Medium Rare)</em> — Use that for database most of the time, though, i prefer MongoDB :joy: 📊
+    <strong>MySQL</strong> <em>(50/100)</em> — Use that for database most of the time, though, i prefer MongoDB :joy: 📊
   </p>
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35" /> 
-    <strong>Python</strong> <em>(Raw)</em> — For quick scripts 🐍
+    <strong>Python</strong> <em>(65/100)</em> — For quick scripts 🐍
   </p>
+    <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Python" width="35" height="35" /> 
+    <strong>TypeScript</strong> <em>(45/100)</em> — For webapp using Next.JS 🐍
 </div>
 
 ## 💌 Contacts
