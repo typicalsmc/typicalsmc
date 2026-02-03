@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=typicalsmc&label=Profile%20views&color=0e75b6&style=flat" alt="typicalsmc" /> </p>
 
 ## 🧪 **Some of my achievements:**
-* Owner of SimpMC Network for 3 years, peak at 400 players concurrently
+* Owner of SimpMC Network since 2021, peak at 400 players concurrently
 * Pioneer in applying new tech in minecraft server industry
 * Worked at MineAhihi as Admin for 3 months
 * Current: Developing a new minecraft server!!!
